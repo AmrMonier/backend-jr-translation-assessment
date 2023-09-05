@@ -69,5 +69,5 @@ You will be assessed based on the following criteria:
 
 ## **Submission:**
 
-Fork this repository and submit your solution by pushing your code to your forked repository. Provide the link to your repository by emailed to <backend@contact.com> before the deadline.
+Fork this repository and submit your solution by pushing your code to your forked repository. Provide the link to your repository by emailed to <backend@contact.eg> before the deadline.
 Best of luck, and we look forward to seeing your integration in action!
